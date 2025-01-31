@@ -6,11 +6,6 @@ Here's a basic README for your repository:
 
 Welcome to the Data Engineering repository. This project contains assignments and code related to data engineering tasks.
 
-## Assignments
-
-### Assignment 1 Part 2 - Web Scraping (Booking.com)
-[Assignment 1 Part 2 - Web Scraping (Booking.com)](https://github.com/dftow01/dataengineering/blob/main/Assignment_1_Part_2_Web_Srapping_(Booking_com).ipynb)
-
 ## Getting Started
 
 To get started with this project, clone the repository and follow the instructions in each assignment notebook.
